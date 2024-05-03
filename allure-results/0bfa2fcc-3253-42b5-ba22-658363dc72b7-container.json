@@ -1,0 +1,1 @@
+{"uuid":"0bfa2fcc-3253-42b5-ba22-658363dc72b7","name":"test.Loginpgtest.setup","children":["3231084f-7729-4266-9271-7c5df658586f"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1714551982704,"stop":1714551995080}],"afters":[],"start":1714551982704,"stop":1714551995080}

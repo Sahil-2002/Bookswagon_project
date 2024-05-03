@@ -1,0 +1,70 @@
+2024-05-01 13:19:56 INFO  Testbase:46 - browser name chrome
+2024-05-01 13:20:28 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 13:21:17 FATAL Testbase:72 - File should be connected to code till its execution 
+2024-05-01 13:21:17 INFO  Testbase:46 - browser name chrome
+2024-05-01 13:21:19 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 13:23:16 FATAL Testbase:72 - File should be connected to code till its execution 
+2024-05-01 13:23:16 INFO  Testbase:46 - browser name chrome
+2024-05-01 13:23:18 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 13:23:30 FATAL Testbase:72 - File should be connected to code till its execution 
+2024-05-01 13:37:41 INFO  Testbase:46 - browser name chrome
+2024-05-01 13:37:43 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 13:40:36 INFO  Testbase:46 - browser name chrome
+2024-05-01 13:40:39 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 13:41:09 INFO  Testbase:46 - browser name chrome
+2024-05-01 13:41:11 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 13:51:17 INFO  Testbase:46 - browser name chrome
+2024-05-01 13:51:19 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 13:53:17 INFO  Testbase:46 - browser name chrome
+2024-05-01 13:53:19 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 13:54:09 INFO  Testbase:46 - browser name chrome
+2024-05-01 13:54:11 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 13:55:44 INFO  Testbase:46 - browser name chrome
+2024-05-01 13:55:46 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 13:55:57 FATAL Testbase:72 - File should be connected to code till its execution 
+2024-05-01 13:55:57 INFO  Testbase:46 - browser name chrome
+2024-05-01 13:55:58 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 13:56:09 FATAL Testbase:72 - File should be connected to code till its execution 
+2024-05-01 13:56:09 INFO  Testbase:46 - browser name chrome
+2024-05-01 13:56:11 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 13:56:22 FATAL Testbase:72 - File should be connected to code till its execution 
+2024-05-01 13:56:22 INFO  Testbase:46 - browser name chrome
+2024-05-01 13:56:24 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 13:56:35 INFO  Testbase:46 - browser name chrome
+2024-05-01 13:56:37 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 13:56:47 INFO  Testbase:40 - checking whether img is displayed or not 
+2024-05-01 13:56:47 WARN  Testbase:44 - Img might be shifted to different axis of page  
+2024-05-01 13:56:47 INFO  Testbase:46 - browser name chrome
+2024-05-01 13:56:48 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 13:57:03 INFO  Testbase:53 - Login test method is  running ...
+2024-05-01 13:57:03 INFO  Testbase:46 - browser name chrome
+2024-05-01 13:57:06 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 13:57:18 WARN  Testbase:60 - OTP might take some time to generate 
+2024-05-01 14:08:16 INFO  Testbase:46 - browser name chrome
+2024-05-01 14:08:19 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 14:10:58 INFO  Testbase:46 - browser name chrome
+2024-05-01 14:11:00 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-01 14:12:26 INFO  Testbase:46 - browser name chrome
+2024-05-01 14:12:28 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-02 11:18:49 INFO  Testbase:46 - browser name chrome
+2024-05-02 11:18:59 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-02 15:26:25 INFO  Testbase:46 - browser name chrome
+2024-05-02 15:26:33 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-02 15:26:44 FATAL Testbase:80 - File should be connected to code till its execution 
+2024-05-02 15:26:44 INFO  Testbase:46 - browser name chrome
+2024-05-02 15:26:45 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-02 15:27:36 FATAL Testbase:80 - File should be connected to code till its execution 
+2024-05-02 15:27:36 INFO  Testbase:46 - browser name chrome
+2024-05-02 15:27:37 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-02 15:27:49 INFO  Testbase:46 - browser name chrome
+2024-05-02 15:27:49 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-02 15:28:00 INFO  Testbase:46 - browser name chrome
+2024-05-02 15:28:01 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-02 15:28:21 INFO  Testbase:45 - checking whether img is displayed or not 
+2024-05-02 15:28:21 WARN  Testbase:49 - Img might be shifted to different axis of page  
+2024-05-02 15:28:21 INFO  Testbase:46 - browser name chrome
+2024-05-02 15:28:22 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-02 15:28:38 INFO  Testbase:59 - Login test method is  running ...
+2024-05-02 15:28:39 INFO  Testbase:46 - browser name chrome
+2024-05-02 15:28:40 INFO  Testbase:52 - Application url = https://www.bookswagon.com/login
+2024-05-02 15:29:03 WARN  Testbase:67 - OTP might take some time to generate 

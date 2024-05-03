@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+<listener class-name = "Listner.TestListener"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="D:/intellij_workspace/PageObjectModel/src/test/java/test">
+        <classes>
+            <class name="test.Hometest">
+                <methods>
+                    <include name="gettitle"/>
+                    <include name="checkwhishlist"/>
+                    <include name="bestseller"/>
+                    <include name="checkpersonality"/>
+                    <include name="reqpage"/>
+                </methods>
+            </class>
+            <class name="test.Loginpgtest">
+                <methods>
+                    <include name="gettitle"/>
+                    <include name="checkimg"/>
+                    <include name="login"/>
+                    <include name="otpcheck"/>
+                    <include name="multipleuserlogin"/>
+                </methods>
+            </class>
+            <class name="test.Request_test">
+                <methods>
+                    <include name="checkisbn"/>
+                    <include name="checkbooktitle"/>
+                    <include name="checkauthor"/>
+                    <include name="quantity"/>
+                    <include name="mail"/>
+                    <include name="no"/>
+                    <include name="multipledata"/>
+                </methods>
+            </class>
+            <class name="test.Signuptest">
+                <methods>
+                    <include name="checkname"/>
+                    <include name="checkno"/>
+                    <include name="checkcontinuebtn"/>
+                    <include name="title"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
